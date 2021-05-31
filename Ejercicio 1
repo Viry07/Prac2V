@@ -1,0 +1,18 @@
+#include <lost ream>
+
+using namespace std;
+
+int main()
+{
+
+  int numero1;
+  int numero2;
+  
+  cout << "Ingrese el primer numero: ";
+  cin >> numero2;
+  
+  count << "Ingrese el segundo numero: ";
+  cin >> numero2;
+  
+  return 0;
+}
